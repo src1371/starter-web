@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Simon Collins src1371@gmail.com @src1371
 
 # THANKS
 
